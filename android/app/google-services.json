@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "226355583798",
+    "firebase_url": "https://skuychat-app.firebaseio.com",
+    "project_id": "skuychat-app",
+    "storage_bucket": "skuychat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226355583798:android:7b7eb2422cef4f3e167197",
+        "android_client_info": {
+          "package_name": "com.sundatech.skuychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226355583798-nqdgu83i8mpdolbv0d358re2uis2acqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sundatech.skuychat",
+            "certificate_hash": "0f6c54a9d7f3d9e3437091931d5e382cda73861c"
+          }
+        },
+        {
+          "client_id": "226355583798-103h9rm0262te0lf8kdje23uerljp11p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbnp0jJzkTD1efiONY6n0ntVaHjOjoD9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226355583798-103h9rm0262te0lf8kdje23uerljp11p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
